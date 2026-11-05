@@ -1,0 +1,3 @@
+payload/launch.sh -text
+payload/cursemod -text
+*.dll -text
