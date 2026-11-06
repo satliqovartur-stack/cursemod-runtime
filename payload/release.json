@@ -2,15 +2,15 @@
   "protocol": 1,
   "product": "cursemod",
   "platform": "android-x86_64",
-  "sequence": 4,
+  "sequence": 5,
   "version": "0.3.0",
-  "buildId": "416a31174e86f888dce6794d44a74a70ffba502fe7c113e75fb712f50c94624f",
-  "publishedUtc": "2026-11-05T17:48:35.830430+00:00",
+  "buildId": "8eb10e6ae9b7011d2549165e0a81b781eae453b6f72ee9d62501d02ac6edb130",
+  "publishedUtc": "2026-11-06T08:17:31.284525+00:00",
   "assets": [
     {
       "name": "cursemod",
-      "length": 3028048,
-      "sha256": "de39db01989967322305678a92c2845811de082b4450fd5b63383d42a8c91ac7"
+      "length": 3028560,
+      "sha256": "5c443cdc74bb8f10b6ba21dd75c59c745bd39d507d75aa1b0bc376e3b73b6a5f"
     },
     {
       "name": "launch.sh",
